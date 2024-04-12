@@ -1,4 +1,9 @@
-br{
-    color: red;
-    
+body{
+    background-color: #808080;
+}
+
+img{
+    width: 45%;
+    height: 430px;
+    border: 2px solid rgb(51, 233, 51);
 }
